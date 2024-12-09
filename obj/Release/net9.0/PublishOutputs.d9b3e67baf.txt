@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\out\oforapps.exe
+C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\out\appsettings.Development.json
+C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\out\appsettings.json
+C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\out\oforapps.dll
+C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\out\oforapps.deps.json
+C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\out\oforapps.runtimeconfig.json
+C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\out\oforapps.pdb
