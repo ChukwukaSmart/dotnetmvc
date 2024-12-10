@@ -101,3 +101,4 @@ C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\bin\Debug\net9.0\out\appset
 C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\bin\Debug\net9.0\out\oforapps.deps.json
 C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\bin\Debug\net9.0\out\oforapps.runtimeconfig.json
 C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\bin\Debug\net9.0\out\oforapps.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\Tech365andMore\Dotnet\oforapps\obj\Debug\net9.0\oforapps.sourcelink.json
